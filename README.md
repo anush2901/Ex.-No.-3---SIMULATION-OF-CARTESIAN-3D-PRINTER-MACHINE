@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 14/12/24
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -58,10 +58,24 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
-## Output:
+## Output:![WhatsApp Image 2024-12-14 at 14 44 59_78c8257f](https://github.com/user-attachments/assets/c0b8cf2e-19de-429a-b65d-bb614d63c388)
 
-### Name: 
-### Register Number:
+          ![WhatsApp Image 2024-12-14 at 14 46 23_8ece0a47](https://github.com/user-attachments/assets/2e799903-cca2-4806-87e2-a5a25a3738ed)
+          
+          ![WhatsApp Image 2024-12-14 at 14 46 59_ec6c7096](https://github.com/user-attachments/assets/37ca3648-2e18-4d54-aeea-4160fd950afb)
+          
+          ![WhatsApp Image 2024-12-14 at 14 47 32_dc5aea62](https://github.com/user-attachments/assets/5c961572-7574-40d6-bb19-1b9b83965553)
+          
+          ![WhatsApp Image 2024-12-14 at 14 47 58_0b66f5da](https://github.com/user-attachments/assets/b20f1945-a0fa-4f3b-8027-317930054fea)
+
+          
+
+
+
+
+
+### Name: Anushmalika R
+### Register Number:24900881
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
